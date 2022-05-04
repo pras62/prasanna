@@ -9,6 +9,6 @@
     <h3>Work effectively as part of a team</h3>
     
     <h4>Communicate effectively in a professional context</h4>
-      <img src="screenshot (287).png" alt="evidence" style="width:128px;height:128px;">
+      <img src="communication.png" alt="evidence">
     
     <h5>conflict management and resolution strategies</h5>
