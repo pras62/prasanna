@@ -2,6 +2,8 @@
 <html>
   <head>
     <title></title>
+      </head>
+   <body>
     <h1>communication concepts and strategies </h1>
     
     <h2>confidence and skills in oral communications and presentations</h2>
@@ -12,3 +14,6 @@
       <img src="communication.png" alt="evidence">
     
     <h5>conflict management and resolution strategies</h5>
+  </body>
+  </html>
+  
