@@ -23,7 +23,7 @@
      <img src="kalsify.png" alt="evidence" style="width:700px;height:400px"
        <p> The picture above shows the last year scenario when I had taken part in UI/UX free class and when I was unable to join it, I discussed with the Kalsify group(who were providing free classes) about how and when to join the class.
      <h1> conflict management and resolution strategies </h1>
-     <img src="y.jpg" alt="evidence" style="width:700px;height:400px">
+     <img src="y.jpg" alt="evidence" style="width:200px;height:400px">
      <p> This picture shows the group that I created in messenger when two of my friends had some kind of misunderstanding and they were not willing to talk to each other. I made them clear out their misunderstaing via group call and communicate properly.</p>
   </body>
   </html>
